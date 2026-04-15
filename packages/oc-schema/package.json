@@ -1,30 +1,28 @@
 {
-    "name": "@opencollection/schema",
-    "version": "0.7.0",
-    "description": "OpenCollection schema",
-    "author": "Bruno Software Inc.",
-    "type": "module",
-    "main": "src/index.js",
-    "files": [
-      "src",
-      "package.json"
-    ],
-    "license": "MIT",
-    "keywords": [
-      "opencollection",
-      "api",
-      "http",
-      "graphql",
-      "grpc",
-      "websocket",
-      "rest",
-      "openapi",
-      "swagger",
-      "postman",
-      "collection",
-      "json",
-      "schema"
-    ]
-  }
-  
-  
+  "name": "@opencollection/schema",
+  "version": "0.9.1",
+  "description": "OpenCollection schema",
+  "author": "Bruno Software Inc.",
+  "type": "module",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "package.json"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "opencollection",
+    "api",
+    "http",
+    "graphql",
+    "grpc",
+    "websocket",
+    "rest",
+    "openapi",
+    "swagger",
+    "postman",
+    "collection",
+    "json",
+    "schema"
+  ]
+}
