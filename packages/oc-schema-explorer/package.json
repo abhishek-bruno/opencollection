@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "prebuild": "mkdir -p public/opencollection && cp ../oc-schema/src/opencollection.schema.json public/opencollection/v1.0.0.json",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
